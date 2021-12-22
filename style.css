@@ -63,4 +63,28 @@ header ul li a {
     background-color: white;
 } */
 
-.cards
+.cards {
+    border: 1px dashed black;
+    margin: 300px 700px 0 600px;
+    padding: 30px 25px 30px 10px;
+}
+
+img {
+    width: 580px;
+    height: 340px;
+}
+/* 
+.img-text {
+    position: relative;
+    margin: 0;
+    background-color: rgba(29,106,154,0.72);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+}
+
+img:hover .img-text {
+    visibility: visible;
+    opacity: 1;
+} */
