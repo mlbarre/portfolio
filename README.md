@@ -1,28 +1,25 @@
-# Margaret Barrera's portfolio!
+# a collection of my work
 
-## IDEA
-A functional webpage featuring advanced css to showcase my works-in-progress or deployed sites.
+## description
+This webpage features works in progress and works completed, but could always be improved! Website features include hover photo that links to that specific project, good use of Bulma CSS to bring together colors and shapes, and most of all, personality! This portfolio will continue to improve as my knowledge of front and back end thrives in my career. I hope you are able to see what I've learned and what I've discovered as I move further into technology, old and new.
 
-## CRITERIA 
--
-### USER STORY 
-AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
-### ACCEPTABLE
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
+## table of contents
+* [installation & usage](#installation-&-usage)
+* [collaborators](#collaborators)
+* [tests](#tests)
+* [repo & deployment](#repo-and-deployment)
 
-## REPO
-(link here)
+## installation & usage
+This project only includes help with Bulma CSS, the rest of the webpage is completely vanilla HTML.
+
+## collaborators
+me, myself, and i
+
+## tests
+At the time this project was made, there isn't any javascript in this code so no need for jest to test.
+
+## repo & deployment
+* ( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ )
+* [portfolio](https://github.com/mlbarre/portfolio)
+* [deployment via github pages](https://mlbarre.github.io/portfolio/)
+* [deployment via heroku] Coming soon!
