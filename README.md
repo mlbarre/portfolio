@@ -10,7 +10,7 @@ This project only includes help with Bulma CSS, the rest of the webpage is compl
 me, myself, and i
 
 ## tests
-At the time this project was made, there isn't any javascript in this code so no need for jest to test.
+this project doesn't include or need node.js
 
 ## repo & deployment
 * ( ◑‿◑)ɔ┏🍟--🍔┑٩(^◡^ )
